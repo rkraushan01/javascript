@@ -1,0 +1,31 @@
+// let score = "33";
+// let score1 = "33asd";
+// console.log(typeof score);
+// console.log(typeof(score));
+
+//string to number
+// let a = Number(score);
+// let b = Number(score1);
+// console.log(typeof(a));
+// console.log(typeof(b));
+// console.log(a);
+// console.log(b);
+//"33" = 33
+//"33ass" =NaN
+//true = 1
+// let isLoggedIn = 0;
+// console.log(typeof isLoggedIn);
+// let booleanIsLoggedIn = Boolean(isLoggedIn);
+// console.log(booleanIsLoggedIn);
+//1 ->true
+//"" ->false
+//"RK" = true
+// let num = 46;
+// let stringNum = String(num);
+// console.log(stringNum);
+// console.log(typeof(stringNum));
+// let a = "RK" + 46;
+// console.log(a);
+// console.log(typeof(a));
+
+
