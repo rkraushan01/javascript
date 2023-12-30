@@ -28,4 +28,13 @@
 // console.log(a);
 // console.log(typeof(a));
 
-
+console.log("1"+2+3+4);
+console.log(1+2+3+"4");
+//pahle agar string aa gaya to 
+//sab kuch string ban jayega
+//pahle agar integer hoga, 
+//to int ops hoga
+let a = 5;
+let b = a++;
+console.log(a);//6
+console.log(b);//5
